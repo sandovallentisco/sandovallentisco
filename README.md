@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 Currently doing meta-research — methodological adequacy, transparency practices, evidence synthesis — at Stanford METRICS.
+🌱 Interested in many meta-scientific topics — e.g., mechanisms of scientific self-correction, peer review, improving the publishing system.
+📫 Reach me at: asandlen@stanford.edu or alejandro.sandovall@um.es
+
 <!--
 **sandovallentisco/sandovallentisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
